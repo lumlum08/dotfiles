@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = drai.georgia@gmail.com
+	name = georgia drai
